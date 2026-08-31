@@ -1,73 +1,77 @@
-# Olá, eu sou Carlos Alberto Luso! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=500&duration=2000&color=007BFF&center=true&vCenter=true&width=850&lines=Olá,+eu+sou+Carlos+Alberto+Luso!;Desenvolvedor+de+Software;Entusiasta+de+Inteligência+Artificial;Analista+de+Suporte+TI" alt="Typing SVG" />
+</div>
 
-**Desenvolvedor de Software & Analista de Suporte TI**
+<br><br>
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco na construção de aplicações web modernas, sistemas backend robustos e na integração de Inteligência Artificial no fluxo de desenvolvimento. Atualmente, concilio minha atuação em suporte técnico avançado com a criação de soluções reais, automatizadas e escaláveis.
+> **Transformando problemas em soluções eficientes, escaláveis e automatizadas.**
 
-### 🎓 Sobre Mim
+Sou desenvolvedor full-stack e analista de suporte. Construo aplicações web modernas, sistemas backend robustos e integro ferramentas de Inteligência Artificial para acelerar o desenvolvimento e as entregas.
 
-- 🔭 Desenvolvendo aplicações full-stack em **Java, Spring Boot e React**.
-- 🤖 Integrando fluxos de desenvolvimento avançados com assistentes de codificação e agentes de IA, incluindo **Claude Code, Google Gemini, ChatGPT e Antigravity**.
-- 🌱 Cursando **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**.
-- 💼 Sólida experiência profissional com Suporte TI (Nível 2), gestão de sistemas corporativos e desenvolvimento web.
-- 🚀 Focado em arquitetura de software, automação de processos e engenharia de prompts.
+<br>
 
----
+### 👨‍💻 Sobre Mim
 
-### 💻 Tecnologias e Ferramentas
+- 🚀 Desenvolvendo em **Java, Spring Boot e React**.
+- 🤖 Potencializando o código com IA: **Claude Code, Gemini, ChatGPT e Antigravity**.
+- 🎓 Cursando **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**.
+- 💼 Atuando com Suporte TI (Nível 2), infraestrutura corporativa e desenvolvimento web.
 
-**Inteligência Artificial & Automação**
-<p>
+
+<br><br>
+
+### 🛠️ Minhas Tecnologias
+
+<br>
+
+<div align="center">
+  <strong>⚙️ Backend & Bancos de Dados</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql&theme=dark" alt="Backend" />
+  
+  <br><br><br>
+
+  <strong>🖥️ Frontend & Design</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&theme=dark" alt="Frontend" />
+  
+  <br><br><br>
+
+  <strong>🔧 Ferramentas & Infraestrutura</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Ferramentas" />
+
+  <br><br><br>
+
+  <strong>🤖 IA & Automação</strong><br><br>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents_&_Automations-FF9900?style=for-the-badge&logo=robot&logoColor=white" />
-</p>
+</div>
 
-**Backend & Bancos de Dados**
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<br><br>
 
-**Frontend**
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
 
-**Ferramentas, DevOps & Design**
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+### 📊 Produtividade e Código
 
----
+<br>
 
-### 🚀 Projetos em Destaque
+<div align="center">
+  <img height="195" src="https://streak-stats.demolab.com/?user=carlos-junior10&theme=radical&hide_border=true&border_radius=10" alt="Estatísticas de Contribuição" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlos-junior10&theme=radical" alt="Linguagens mais usadas" />
+</div>
 
-* **[Landing Page - Ângela Tomaz Cerimonial](link_do_repositorio)**: Interface moderna e responsiva construída com React, Tailwind CSS e Framer Motion. Desenvolvimento acelerado e otimizado com o uso do Claude Code e outras integrações de IA.
-* **[Manager Condomínio](link_do_repositorio)**: Protótipo de sistema de gestão condominial abrangendo modelagem de dados e reconhecimento automático de placas.
-* **[Sudoku GUI](link_do_repositorio)**: Aplicação desktop do clássico jogo Sudoku desenvolvida puramente em Java com interface gráfica em JavaFX.
-* **[Amigo Secreto - Oracle Next Education](link_do_repositorio)**: Aplicação web focada em manipulação do DOM com JavaScript, desenvolvida durante o programa ONE.
 
----
+<br><br>
 
-### 📊 Minhas Estatísticas do GitHub
+### 🏆 Projetos em Destaque
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlos-junior10&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/carlos-junior10)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-junior10&layout=compact&langs_count=7&theme=radical)](https://github.com/carlos-junior10)
----
+* 💼 **Cerimonial Ângela Tomaz** *(Projeto Freelance / Privado)*: Landing page moderna construída com React, Tailwind e Framer Motion, com desenvolvimento acelerado por IA.
+* 🏢 **Manager Condomínio** *(Repositório Privado)*: Sistema de gestão com modelagem de dados e reconhecimento automático de placas.
 
-### 📫 Como me encontrar
+<br><br>
 
-<p>
-  <a href="https://www.linkedin.com/in/carlos-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:carlosjn400@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+### 📫 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlos-junior/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seu_email_aqui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
