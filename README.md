@@ -18,7 +18,7 @@ Sou desenvolvedor full-stack e analista de suporte. Construo aplicações web mo
 - 💼 Atuando com Suporte TI (Nível 2), infraestrutura corporativa e desenvolvimento web.
 
 
-<br><br>
+<br>
 
 ### 🛠️ Minhas Tecnologias
 
@@ -28,17 +28,17 @@ Sou desenvolvedor full-stack e analista de suporte. Construo aplicações web mo
   <strong>⚙️ Backend & Bancos de Dados</strong><br><br>
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql&theme=dark" alt="Backend" />
   
-  <br><br><br>
+  <br><br>
 
   <strong>🖥️ Frontend & Design</strong><br><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&theme=dark" alt="Frontend" />
   
-  <br><br><br>
+  <br><br>
 
   <strong>🔧 Ferramentas & Infraestrutura</strong><br><br>
   <img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Ferramentas" />
 
-  <br><br><br>
+  <br><br>
 
   <strong>🤖 IA & Automação</strong><br><br>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
