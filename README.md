@@ -61,11 +61,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco na construção de apli
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=carlos-junior10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-junior10&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlos-junior10&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/carlos-junior10)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-junior10&layout=compact&langs_count=7&theme=radical)](https://github.com/carlos-junior10)
 ---
 
 ### 📫 Como me encontrar
