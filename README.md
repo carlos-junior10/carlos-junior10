@@ -64,7 +64,7 @@ Sou desenvolvedor full-stack e analista de suporte. Construo aplicações web mo
 
 ### 🏆 Projetos em Destaque
 
-* 💼 **Cerimonial Ângela Tomaz** *(Projeto Freelance / Privado)*: Landing page moderna construída com React, Tailwind e Framer Motion, com desenvolvimento acelerado por IA.
+* 💼 **AT Cerimonial** *(Projeto Freelance / Privado)*: Landing page moderna construída com React, Tailwind e Framer Motion, com desenvolvimento acelerado por IA.
 * 🏢 **Manager Condomínio** *(Repositório Privado)*: Sistema de gestão com modelagem de dados e reconhecimento automático de placas.
 
 <br><br>
